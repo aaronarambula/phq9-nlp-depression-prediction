@@ -29,14 +29,5 @@ This can be seen as:
 phq9-nlp-depression-prediction/
 │
 ├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   └── PHQ9_Student_Depression_Dataset_Updated.xlsx
-│
-├── notebooks/
-│   └── 01_phq9_tfidf_regression.ipynb
-│
-└── models/
-    └── phq9_random_forest_regressor.pkl   # (optional, if saved)
+├── PHQ9_Student_Depression_Dataset_Updated.xlsx
+├── model.ipynb
